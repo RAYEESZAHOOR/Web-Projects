@@ -1,0 +1,26 @@
+.words {
+
+  height: 50%;
+  width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+  background-color: rgb(223, 198, 203);
+  font-size: large;
+  border-radius: 2%;
+  width: 80%;
+  resize: none;
+}
+
+.count {
+  font-size: x-large;
+  color: rgb(29, 57, 23);
+    margin-left: 5%;
+    /* justify-content: space-around;
+    padding: 0px 0px; */
+}
+body{ background-color: rgb(110, 142, 170);
+
+}
